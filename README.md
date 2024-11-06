@@ -1,13 +1,14 @@
 ## Hi there 👋, I'm Abdul Djafar!
 
 [![GitHub followers](https://img.shields.io/github/followers/abduldjafar?label=Follow&style=social)](https://github.com/abduldjafar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abdul-djafar-035631113)
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
 
 ### 🚀 About Me
 Hello! I'm Abdul Djafar, a dedicated software developer with a passion for building high-performance applications and seamless data integration solutions. My work revolves around optimizing code, enhancing performance, and ensuring data reliability.
 
 ### 🔭 Current Projects
+- **GymConnect**: A platform connecting fitness enthusiasts and trainers, aimed at making fitness more accessible and personalized. Currently focusing on backend engineering with Rust, SurrealDB, and Redis for scalable performance. [Check it out!](https://gymconnect.id/)
 - **KWC (Koteka WC)**: An innovative and high-performance text processing tool inspired by the `wc` command in Linux. This tool significantly reduces processing time for large files. [Check it out!](https://github.com/abduldjafar/kwc)
 
 ### 🌱 Learning and Growth
